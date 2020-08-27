@@ -1,0 +1,6 @@
+﻿E:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CppSMFL2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CppSFML2.cpp
+C:\Users\rpgix\source\repos\CppSMFL2\CppSMFL2\CppSFML2.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rpgix\source\repos\CppSMFL2\CppSMFL2\CppSFML2.cpp(39,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rpgix\source\repos\CppSMFL2\CppSMFL2\CppSFML2.cpp(41,66): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CppSMFL2.vcxproj -> C:\Users\rpgix\source\repos\CppSMFL2\x64\Debug\CppSFML2.exe
